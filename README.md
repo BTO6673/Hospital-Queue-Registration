@@ -19,6 +19,7 @@ priority_queue
 Priority customers are always served first before regular customers, demonstrating queue prioritization logic similar to real healthcare triage systems.
 
 Live Queue Display
+
 A Treeview table from Tkinter’s ttk module dynamically displays all waiting patients, including ticket number, name, department, priority status, and time of registration.
 Next Customer Processing
 The call_next_customer() method removes and serves the next patient from the queue. It first checks the priority queue before moving to the normal queue, ensuring fair and organized queue handling.
