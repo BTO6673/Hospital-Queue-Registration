@@ -14,6 +14,7 @@ Department Selection
 Patients can choose hospital departments such as Consultation, Surgery, Pharmacy, Radiology, and Laboratory through a dropdown combobox widget.
 
 Priority Queue Management
+
 The code implements two separate queues:
 priority_queue
 Priority customers are always served first before regular customers, demonstrating queue prioritization logic similar to real healthcare triage systems.
